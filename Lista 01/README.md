@@ -1,6 +1,6 @@
 # Lista 01 - Algoritmos e técnicas de programação
 
-O conteúdo dos 10 exercícios contempla uma abordagem introdutória sobre algoritmos, como operações aritméticas básicas e estruturas condicionais. Os enunciados dos exercícios podem ser encontrados [aqui](Enunciados01.pdf).
+O conteúdo dos 10 exercícios abrange uma variedade de situações nas quais decisões são tomadas com base em condições específicas. Para isso, são utilizadas estruturas condicionais. Cada exercício visa fortalecer o entendimento e a prática do uso das condicionais em programas Java. Os enunciados dos exercícios podem ser encontrados [aqui](Enunciados01.pdf).
 
 
 
