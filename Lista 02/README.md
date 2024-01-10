@@ -1,4 +1,4 @@
-# Lista 01 - Algoritmos e técnicas de programação
+# Lista 02 - Algoritmos e técnicas de programação
 
 A lista de exercícios de estruturas de repetição abrange uma variedade de problemas que visam fortalecer o entendimento e a prática do uso de estruturas de controle de repetição em programas Java. Os exercícios abordam temas como contagem de números positivos, negativos e zeros, cálculos percentuais, verificação de divisibilidade, séries matemáticas, análise de dados populacionais, sequência de Fibonacci e contagem de votos em uma eleição presidencial. Cada exercício propõe desafios específicos, incentivando a aplicação prática de conceitos fundamentais da programação em Java, como loops, condicionais e cálculos matemáticos. Os enunciados dos exercícios podem ser encontrados [aqui](Enunciados02.pdf).
 
