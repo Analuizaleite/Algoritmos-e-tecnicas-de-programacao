@@ -16,8 +16,7 @@ public class questao1 {
 				System.out.println("A média aritmética das notas é: " + (nota1 + nota2 + nota3) / 3);
 				break;
 			case 'P':
-				System.out
-						.println("A média ponderada das notas é: " + (5 * nota1 + 3 * nota2 + 2 * nota3) / (5 + 3 + 2));
+				System.out.println("A média ponderada das notas é: " + (5 * nota1 + 3 * nota2 + 2 * nota3) / (5 + 3 + 2));
 				break;
 		}
 	}
