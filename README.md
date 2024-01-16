@@ -7,7 +7,7 @@ Este repositório contém as soluções para as listas de exercícios da discipl
 | Lista 00 | Exercícios introdutórios, abrangendo conceitos fundamentais. | [Lista 00) (Lista 00) |
 | Lista 01 | Exercícios focados em estruturas condicionais e de repetição. | [Lista 01](Algoritmos-e-tecnicas-de-programacao/Lista 01/) |
 | Lista 02 | Exercícios em Java, explorando novos conceitos e desafios. | [Lista 02](Lista 02) |
-| Lista 03 | Introdução à modularização, com exercícios que envolvem procedimentos e funções. | [Lista 03](./Lista03) |
+| Lista 03 | Introdução à modularização, com exercícios que envolvem procedimentos e funções. | [Lista 03](Lista03) |
 | Lista 04 | Exercícios com estruturas homogêneas, trabalhando com vetores e matrizes. | [Lista 04](/Lista 04/) |
 | Trabalho Prático | Projeto envolvendo a criação de um sistema para gerenciar a lista de Pokemons de um usuário em Java. | [Trabalho Prático](link_da_pasta_do_TrabalhoPratico) |
 
