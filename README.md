@@ -4,7 +4,7 @@ Este repositório contém as soluções para as listas de exercícios da discipl
 
 | Lista | Descrição | Link |
 |-------|-----------|------|
-| Lista 00 | Exercícios introdutórios, abrangendo conceitos fundamentais. | [Lista 00](https://github.com/Analuizaleite/Algoritmos-e-tecnicas-de-programacao/tree/main/Lista%20000) |
+| Lista 00 | Exercícios introdutórios, abrangendo conceitos fundamentais. | [Lista 00](https://github.com/Analuizaleite/Algoritmos-e-tecnicas-de-programacao/tree/main/Lista00) |
 | Lista 01 | Exercícios focados em estruturas condicionais e de repetição. | [Lista 01](Algoritmos-e-tecnicas-de-programacao/Lista 01/) |
 | Lista 02 | Exercícios em Java, explorando novos conceitos e desafios. | [Lista 02](Lista 02) |
 | Lista 03 | Introdução à modularização, com exercícios que envolvem procedimentos e funções. | [Lista 03](./Lista03) |
