@@ -1,4 +1,4 @@
-# Repositório de Algoritmos e Técnicas de Programação
+# Repositório de Algoritmos e Técnicas de Programação 👩‍💻
 
 Este repositório contém as soluções para as listas de exercícios da disciplina de Algoritmos e Técnicas de Programação realizados na linguagem Java.
 
@@ -15,11 +15,11 @@ Cada pasta contém os arquivos Java correspondentes a cada exercício, e o códi
 Além disso, o vídeo de apresentação do trabalho prático está disponível [aqui](https://www.youtube.com/watch?v=MeMvdjDjEc0).
 
 
-## Trabalho Prático
+## Trabalho Prático 💛
 
 O trabalho prático consiste em criar um sistema de gerenciamento de Pokémons. Consulte [aqui](https://github.com/Analuizaleite/Algoritmos-e-tecnicas-de-programacao/tree/main/Trabalho%20Pratico) para mais detalhes.
 
-## Como Usar
+## Como Executar 🛠️
 
 1. Clone este repositório.
 2. Navegue até a lista desejada.
