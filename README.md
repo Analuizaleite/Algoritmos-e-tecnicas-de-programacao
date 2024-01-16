@@ -1,4 +1,4 @@
-# Repositório de Algoritmos e Técnicas de Programação 👩‍💻
+# Algoritmos e Técnicas de Programação 👩‍💻
 
 Este repositório contém as soluções para as listas de exercícios da disciplina de Algoritmos e Técnicas de Programação realizados na linguagem Java.
 
